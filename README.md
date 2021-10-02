@@ -51,4 +51,10 @@ Output 4.
 ![image_2_1](https://user-images.githubusercontent.com/85843030/135727310-5538225e-e22b-4963-babf-8f7d08d6a643.png)
 
 
+Furthremore, if we create a statistical summary, where we group the Manufacturing_Lots, we get the following data for the 3 Lots:
+
+Output 5.
+![image2_2](https://user-images.githubusercontent.com/85843030/135727379-b0f5dfa3-1a74-4ad0-8c9a-89352404e9c3.png)
+
+
 
