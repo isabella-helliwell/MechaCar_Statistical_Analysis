@@ -11,9 +11,9 @@ Output 1.
 
 
    We can see that the <b> vehicle length </b> & the <b> Vehicle ground clearance </b> both have p-values much less than the significant level of 
-   <b>alpha=0.05%</b>, meaning that we have sufficient evidence to reject the null hypothesis and we can state the the two variables have a significant impact on
+   <b> _&alpha;_ = 0.05%</b>, meaning that we have sufficient evidence to reject the null hypothesis and we can state the the two variables have a significant impact on
    MPG(miles per gallon)
-   On the other hand, <b>Vehicale Weight</b>, <b>Spoiler angle</b>, <b>AWD</b>, have p-values that are greater than the significant level of <b>alpha =0.05%</b>. 
+   On the other hand, <b>Vehicale Weight</b>, <b>Spoiler angle</b>, <b>AWD</b>, have p-values that are greater than the significant level of <b> _&alpha;_ =0.05%</b>. 
    This means that the NULL Hypothesis is valid. Therefore these three variables, have little or no effect on the MPG.
 
 
@@ -39,7 +39,7 @@ Output 3.
 ![image](https://user-images.githubusercontent.com/85843030/135722271-96d6c505-ac4a-42b4-836d-db81b9ad12e2.png)
 
 
-As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less than previous but still a strong value.  _&alpha;_
+As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less than previous but still a strong value.
 
 ## Summary Statistics on Suspension Coils
 
