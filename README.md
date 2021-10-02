@@ -1,5 +1,5 @@
-<style>H1{MechaCar_Statistical_Analysis: Blue;}</style>
-# MechaCar_Statistical_Analysis
+
+# <color> blue;{MechaCar_Statistical_Analysis}</color> 
 ## Deliverable1
 ### Linear Regression to Predict MPG
  After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions is to be answered:
