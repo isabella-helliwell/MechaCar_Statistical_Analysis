@@ -3,8 +3,8 @@
 ### Linear Regression to Predict MPG
  After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions is to be answered:
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
- - Looking at the results of the linear regression model, the last column shows the p-values for the different variables. 
+   
+   Looking at the results of the linear regression model, the last column shows the p-values for the different variables. 
    We can see that the <b> vehicle length </b> & the <b> Vehicle ground clearance </b> both have p-values much less than the significant level of 
    <b>alpha=0.05%</b>, meaning that we have sufficient evidence to reject the null hypothesis and we can state the the two variables have a significant impact on
    MPG(miles per gallon)
@@ -12,8 +12,11 @@
    This means that the NULL Hypothesis is valid. Therefore these three variables, have little or no effect on the MPG.
 
 
-
-
-
 * Is the slope of the linear model considered to be zero? Why or why not?
+  The slope of a linear regression is decided by the following equation: <b><i>y=kx+m</i></b>. Looking at the output, we can see the intercept
+  coefficients, which are shown below 
+![image](https://user-images.githubusercontent.com/85843030/135721849-22257d5f-ee70-4c0d-aea2-92a917294d61.png)
+  
+
+
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
