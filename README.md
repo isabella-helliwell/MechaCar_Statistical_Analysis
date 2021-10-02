@@ -43,7 +43,7 @@ As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less
 
 ## Summary Statistics on Suspension Coils
 
-Using Suspension_Coil.csv file, the aim of this analysis is to obtain the statistical summary of the data, in terms of mean, median, variance, and
+Using <i>Suspension_Coil.csv</i> file, the aim of this analysis is to obtain the statistical summary of the data, in terms of mean, median, variance, and
 standard deviation of the suspension coil's PSI column.
 the following ouput shows the statistical summary:
 
@@ -57,4 +57,4 @@ Output 5.
 ![image2_2](https://user-images.githubusercontent.com/85843030/135727379-b0f5dfa3-1a74-4ad0-8c9a-89352404e9c3.png)
 
 
-As shown in Output 5, <b>Lot 3</b> does not meet the design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
+As shown in Output 5, <b>Lot 3</b> does not meet the variance design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
