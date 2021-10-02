@@ -54,7 +54,7 @@ Output 4.
 Furthremore, if we create a statistical summary, where we group the Manufacturing_Lots, we get the following data for the 3 Lots:
 
 Output 5.
-![image2_2](https://user-images.githubusercontent.com/85843030/135727379-b0f5dfa3-1a74-4ad0-8c9a-89352404e9c3.png)
+![image](https://user-images.githubusercontent.com/85843030/135728153-842dab2f-ed02-4bf6-b6e1-6f6f2a7a4020.png)
 
 
 As shown in Output 5, <b>Lot 3</b> <ins>does not meet</ins> the variance design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
