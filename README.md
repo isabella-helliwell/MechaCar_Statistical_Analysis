@@ -104,8 +104,11 @@ Output 9.
 ![image](https://user-images.githubusercontent.com/85843030/135734175-618d1dc7-e17d-4b18-b4f1-ef492158113d.png)
 
 
-Looking at the Outputs 7,8, and 9, and comparing the p-values to the _&alpha;_ =0.05% : 
+Looking at the Outputs 7,8, and 9, and comparing the p-values to the _&alpha;_ =0.05% :
+
 Lot 1: p-value= 0.060 >  _&alpha;_ =0.05, Therefore there is <b>no statistically impact of Lot1 and popolationb PSI</b>.
+
 Lot 2: p-value=0.61 >  _&alpha;_ =0.05, Therefore, there is <b>no statistically impact of Lot2 and popolationb PSI</b>.
+
 Lot 3 : p-value=0.04 < _&alpha;_ =0.05, Therefore, <b>there is a statistical difference bewteen Lot 3 and population PSI</b>.
 
