@@ -112,3 +112,5 @@ Lot 2: p-value=0.61 >  _&alpha;_ =0.05, Therefore, there is <b>no statistically 
 
 Lot 3 : p-value=0.04 < _&alpha;_ =0.05, Therefore, <b>there is a statistical difference bewteen Lot 3 and population PSI</b>.
 
+From the outputs in this sections, one can draw the conslusion that there is something different in the Manufacturing lot 3 that is not
+meeting the Mechanical specifications. 
