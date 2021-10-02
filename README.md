@@ -69,6 +69,7 @@ mean of 1500 we perform a t-test.
 Assuming <b> _&alpha;_ =0.05%</b>. The outputs are as follows:
 
 Output 6.
+
 ![image](https://user-images.githubusercontent.com/85843030/135732977-5fd7b340-ae78-4bd7-9c56-6b568f1f9dc5.png)
 
 
