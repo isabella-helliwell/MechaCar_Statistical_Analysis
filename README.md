@@ -1,4 +1,4 @@
-<style>H1{color: Blue;}</style>
+<style>H1{MechaCar_Statistical_Analysis: Blue;}</style>
 # MechaCar_Statistical_Analysis
 ## Deliverable1
 ### Linear Regression to Predict MPG
