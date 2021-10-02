@@ -85,3 +85,16 @@ Output 7.
 ![image](https://user-images.githubusercontent.com/85843030/135733554-3ea2fbe3-0daa-41b8-bf6d-b502c4901e26.png)
 
 
+<ins> Lot 2 </ins>
+
+Output 8.
+
+![image](https://user-images.githubusercontent.com/85843030/135733582-c14d848e-af40-41f7-9943-3646a20a51bd.png)
+
+
+<ins> Lot 3 </ins>
+
+Output 9.
+![image](https://user-images.githubusercontent.com/85843030/135733599-e5a9be35-0102-4c31-9973-29f337716c01.png)
+
+
