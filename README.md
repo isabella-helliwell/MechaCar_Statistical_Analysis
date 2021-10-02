@@ -73,8 +73,14 @@ Output 6.
 ![image](https://user-images.githubusercontent.com/85843030/135732977-5fd7b340-ae78-4bd7-9c56-6b568f1f9dc5.png)
 
 From Output 6, the PSI mean = <b>1498.5</b>, and <b>p-value=0.06</b> which is <b> > _&alpha;_ =0.05% </b>. As a results, the <b>NULL Hypotheses is valid</b>, 
-and there are <b><ins>no statistically indifference between the means</ins></b>.
+and there is <b><ins>no statistically indifference between the means</ins></b>.
 
 
+Comparing each Manufacturing Lot against the mean PSI of the population, mu=1500:
+<ins> Lot 1 </ins>
+
+Output 7. 
+
+![image](https://user-images.githubusercontent.com/85843030/135733554-3ea2fbe3-0daa-41b8-bf6d-b502c4901e26.png)
 
 
