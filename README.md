@@ -82,7 +82,7 @@ Comparing each Manufacturing Lot against the mean PSI of the population, mu=1500
 
 Output 7. 
 
-![image](https://user-images.githubusercontent.com/85843030/135733554-3ea2fbe3-0daa-41b8-bf6d-b502c4901e26.png)
+![image_3_2](https://user-images.githubusercontent.com/85843030/135733644-89ebf5a7-b9fa-4f5d-ad22-bbc81051698c.png)
 
 
 
