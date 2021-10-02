@@ -39,4 +39,16 @@ Output 3.
 ![image](https://user-images.githubusercontent.com/85843030/135722271-96d6c505-ac4a-42b4-836d-db81b9ad12e2.png)
 
 
-As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>.
+As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less than previous but still a strong value.
+
+## Summary Statistics on Suspension Coils
+
+Using Suspension_Coil.csv file, the aim of this analysis is to obtain the statistical summary of the data, in terms of mean, median, variance, and
+standard deviation of the suspension coil's PSI column.
+the following ouput shows the statistical summary:
+
+Output 4.
+![image_2_1](https://user-images.githubusercontent.com/85843030/135727310-5538225e-e22b-4963-babf-8f7d08d6a643.png)
+
+
+
