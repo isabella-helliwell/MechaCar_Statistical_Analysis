@@ -24,6 +24,8 @@ The linear regression model shows a <b>r2 value </b> of <b>0.715</b>, meaning ar
 linear model. The correlation analysis we have conducted here shows a strong correlation between the variables.
 We can further take out the vriables that had little, or no impact to our model.By doing so, and using the same linear regression analysis. In this instance, I have
 chosen to leave in the Vehicale weight variance, simply becasue it's p-value was slightly over 0.05.
+
 ![image](https://user-images.githubusercontent.com/85843030/135722271-96d6c505-ac4a-42b4-836d-db81b9ad12e2.png)
+
 
 As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>.
