@@ -39,7 +39,7 @@ Output 3.
 ![image](https://user-images.githubusercontent.com/85843030/135722271-96d6c505-ac4a-42b4-836d-db81b9ad12e2.png)
 
 
-As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less than previous but still a strong value. &alpha
+As seen here, the </b>r2=0.6936 </b>, hence <b>69.4%</b>, which is slightly less than previous but still a strong value.  _&alpha;_
 
 ## Summary Statistics on Suspension Coils
 
