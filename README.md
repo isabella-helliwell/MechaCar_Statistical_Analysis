@@ -77,6 +77,7 @@ and there is <b><ins>no statistically indifference between the means</ins></b>.
 
 
 Comparing each Manufacturing Lot against the mean PSI of the population, mu=1500:
+
 <ins> Lot 1 </ins>
 
 Output 7. 
