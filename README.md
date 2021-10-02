@@ -6,6 +6,7 @@
    
    Looking at the results of the linear regression model, the last column shows the p-values for the different variables.
 
+Output 1.
 ![Deliverable_1](https://user-images.githubusercontent.com/85843030/135725287-a6b2f67c-f063-42ec-ad26-300ba1f35789.png)
 
 
@@ -23,9 +24,10 @@
   coefficients, and the p-values. 
   The intercept Coefficients tells us where the y-axis is intersepted, i.e the value of <b><i>m </i></b>.
   
+ Output 2. 
 ![image](https://user-images.githubusercontent.com/85843030/135721849-22257d5f-ee70-4c0d-aea2-92a917294d61.png)
   
- We use the p-value of the summary statistics (output1) to see tha </b><i>p-value<<0.05</i></b>, and therefore the libnear regression model has got a slope.
+ We use the p-value of the summary statistics (Output 1) to see tha <b><i>p-value<<0.05</i></b>, and therefore the libnear regression model has got a slope.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear regression model shows a <b>r2 value </b> of <b>0.715</b>, meaning around <b>71.5% </b>of the variability of our dependent variable is explained using
@@ -33,6 +35,7 @@ linear model. The correlation analysis we have conducted here shows a strong cor
 We can further take out the vriables that had little, or no impact to our model.By doing so, and using the same linear regression analysis. In this instance, I have
 chosen to leave in the Vehicale weight variance, simply becasue it's p-value was slightly over 0.05.
 
+Output 3.
 ![image](https://user-images.githubusercontent.com/85843030/135722271-96d6c505-ac4a-42b4-836d-db81b9ad12e2.png)
 
 
