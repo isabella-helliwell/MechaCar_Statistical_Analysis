@@ -57,4 +57,4 @@ Output 5.
 ![image2_2](https://user-images.githubusercontent.com/85843030/135727379-b0f5dfa3-1a74-4ad0-8c9a-89352404e9c3.png)
 
 
-As shown in Output 5, <b>Lot 3</b> does not meet the variance design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
+As shown in Output 5, <b>Lot 3</b> <em>does not meet</em> the variance design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
