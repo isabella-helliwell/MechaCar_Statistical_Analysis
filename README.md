@@ -82,7 +82,7 @@ Comparing each Manufacturing Lot against the mean PSI of the population, mu=1500
 
 Output 7. 
 
-![image_3_2](https://user-images.githubusercontent.com/85843030/135733644-89ebf5a7-b9fa-4f5d-ad22-bbc81051698c.png)
+![image](https://user-images.githubusercontent.com/85843030/135734162-bde874a0-2664-44a7-8773-ba8f9ff73d4f.png)
 
 
 
@@ -91,7 +91,8 @@ Output 7.
 Output 8.
 
 
-![image](https://user-images.githubusercontent.com/85843030/135733582-c14d848e-af40-41f7-9943-3646a20a51bd.png)
+![image](https://user-images.githubusercontent.com/85843030/135734166-9bf78fbf-4a1a-4034-b9e1-a7dbc97d2f32.png)
+
 
 
 
@@ -100,6 +101,7 @@ Output 8.
 
 Output 9.
 
-![image](https://user-images.githubusercontent.com/85843030/135733599-e5a9be35-0102-4c31-9973-29f337716c01.png)
+![image](https://user-images.githubusercontent.com/85843030/135734175-618d1dc7-e17d-4b18-b4f1-ef492158113d.png)
+
 
 
