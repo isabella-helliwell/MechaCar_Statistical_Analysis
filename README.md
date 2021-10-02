@@ -61,3 +61,18 @@ Output 5.
 As shown in Output 5, <b>Lot 3</b> <ins>does not meet</ins> the variance design specifications for the MechaCar suspension, as it exceeds <b>100 pounds/in^2</b>.
 Looking at Output 4 again, we can see that the variance is within the limit of 100 pounds/in^2, therefore we can assume that Lot 3 has got significant 
 outliers in it's data.
+
+## T-Tests on Suspension Coils
+
+To compare the mean of one dataset to another under the assumption that the PSI across all manufactoring lots is statistically different from the population
+mean of 1500 we perform a t-test.
+Assuming <b> _&alpha;_ =0.05%</b>. The outputs are as follows:
+
+Output 6.
+![image](https://user-images.githubusercontent.com/85843030/135732977-5fd7b340-ae78-4bd7-9c56-6b568f1f9dc5.png)
+
+
+
+
+
+
