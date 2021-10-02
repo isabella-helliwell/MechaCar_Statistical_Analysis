@@ -14,9 +14,11 @@
 
 * Is the slope of the linear model considered to be zero? Why or why not?
   The slope of a linear regression is decided by the following equation: <b><i>y=kx+m</i></b>. Looking at the output, we can see the intercept
-  coefficients, which are shown below 
+  coefficients, which are shown below, we can see that non of the intercept values are 0. 
 ![image](https://user-images.githubusercontent.com/85843030/135721849-22257d5f-ee70-4c0d-aea2-92a917294d61.png)
   
-
+ We can also use the p-value of the summary statistics to see tha p-value<<0.05, and therefore the libnear regression model has got a slope.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+The linear regression model shows a <b>r2 value </b> of <b>0.715</b>, meaning around <b>71.5% </b>of the variability of our dependent variable is explained using
+linear model. The correlation analysis we have conducted here shows a strong correlation between the variables 
