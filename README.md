@@ -4,7 +4,11 @@
  After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions is to be answered:
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    
-   Looking at the results of the linear regression model, the last column shows the p-values for the different variables. 
+   Looking at the results of the linear regression model, the last column shows the p-values for the different variables.
+
+![Deliverable_1](https://user-images.githubusercontent.com/85843030/135725287-a6b2f67c-f063-42ec-ad26-300ba1f35789.png)
+
+
    We can see that the <b> vehicle length </b> & the <b> Vehicle ground clearance </b> both have p-values much less than the significant level of 
    <b>alpha=0.05%</b>, meaning that we have sufficient evidence to reject the null hypothesis and we can state the the two variables have a significant impact on
    MPG(miles per gallon)
