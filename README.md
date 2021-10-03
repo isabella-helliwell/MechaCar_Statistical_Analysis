@@ -120,7 +120,9 @@ There are several factors to be considered when manufacturing a car. Most car ma
 more fuel efficient models, as the consumers are becoming more demanding in term of efficiency and environment.
 For this statistical test design, we want to see how MechaCar is performing with respect to other car manufacturing companies.
 Below is a general overview of the metric data that can be tested to either confirm a NULL Hypothesis, or not. We can test any of the variables against cost.
+
 <b>Ho=TRUE</b>; There is sufficient evidence that the cost is <ins><b>not dependendant on the variables tested</b></ins>.
+
 <b>Ha=TRUE</b>, There is sufficient evidence that the cost is <ins><b>directly influenced by the varaibles tested</b><ins>.
 
 
