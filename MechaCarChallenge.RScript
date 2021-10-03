@@ -1,0 +1,40 @@
+library(dplyr)
+library(tidyverse)
+MechCar<- read_csv('Deliverable_1/MechaCar_mpg.csv')
+head(MechCar)
+## Multiple Linear Regression
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=MechCar)
+
+## generate summary statistics
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=MechCar))
+
+## Removing the 2 variables that have p-values >0.05
+
+
+summary(lm(mpg ~ vehicle_length + vehicle_weight + ground_clearance, data=MechCar)) #generate summary statistics
+
+## ----------Deliverable 2 Analysis--------
+##import csv file as tipple
+SusPCoil<- read_csv('Deliverable_2/Suspension_Coil.csv')
+
+##create a total summary df
+total_summary<- SusPCoil %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance= var(PSI), SD=sd(PSI))
+
+##create a lot summary using group_by
+lot_summary <- SusPCoil %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance= var(PSI), SD=sd(PSI),Number_of_Coils=n(), .group='keep')
+
+
+##-------Deliverable 3 Analysis-----------
+t.test(SusPCoil$PSI, mu=1500)
+
+filter_table_1<- subset(SusPCoil, "Lot1" %in% Manufacturing_Lot)
+
+filter_table_2<- subset(SusPCoil, Manufacturing_Lot == 'Lot2')
+
+filter_table_3<- subset(SusPCoil, Manufacturing_Lot %in% c("Lot3"))
+
+t.test(filter_table_1$PSI, mu=1500)
+
+t.test(filter_table_2$PSI, mu=1500)
+
+t.test(filter_table_3$PSI, mu=1500)
