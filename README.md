@@ -116,7 +116,7 @@ From the outputs in this sections, one can draw the conslusion that there is som
 meeting the Mechanical specifications. 
 
 ## Study Design: MechaCar vs Competition
-There are several factors to be considered when manufacturing a car. Most car manufactoring companies are continuely striving for better design, and 
+There are several factors to be considered when manufacturing a car. Most car manufacturing companies are continuely striving for better safer design, and 
 more fuel efficient models, as the consumers are becoming more demanding in term of efficiency and environment.
 For this statistical test design, we want to see how MechaCar is performing with respect to other car manufacturing companies.
 Below is a general overview of the metric data that can be tested to either confirm a NULL Hypothesis, or not. We can test any of the variables against cost.
