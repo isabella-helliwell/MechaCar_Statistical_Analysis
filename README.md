@@ -1,7 +1,7 @@
 
 # MechaCar_Statistical_Analysis
-## Summary Statistics on Suspension Coils
-### Linear Regression to Predict MPG
+
+## Linear Regression to Predict MPG
  After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions are to be answered:
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    
