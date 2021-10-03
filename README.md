@@ -114,3 +114,16 @@ Lot 3 : p-value=0.04 < _&alpha;_ =0.05, Therefore, <b>there is a statistical dif
 
 From the outputs in this sections, one can draw the conslusion that there is something different in the Manufacturing lot 3 that is not
 meeting the Mechanical specifications. 
+
+## Study Design: MechaCar vs Competition
+There are several factors to be considered when manufacturing a car. Most car manufactoring companies are continuely striving for better design, and 
+more fuel efficient models, as the consumers are becoming more demanding in term of efficiency and environment.
+For this statistical test design, we want to see how MechaCar is performing with respect to other car manufacturing companies.
+Below is a general overview of the metric data that can be tested to either confirm a NULL Hypothesis, or not. We can test any of the variables against cost.
+<b>Ho=TRUE</b>; There is sufficient evidence that the cost is <ins><b>not dependendant on the variables tested</b></ins>.
+<b>Ha=TRUE</b>, There is sufficient evidence that the cost is <ins><b>directly influenced by the varaibles tested</b><ins>.
+
+
+
+
+
