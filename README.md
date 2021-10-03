@@ -120,8 +120,8 @@ There are several factors to be considered when manufacturing a car. Most car ma
 more fuel efficient models, as the consumers are becoming more demanding in term of efficiency and environment.
 For this statistical test design, we want to see how MechaCar is performing with respect to other car manufacturing companies.
 Below is a general overview of the metric data that can be tested to either confirm a NULL Hypothesis, or not. We can test any of the variables against cost.
-We can test multiple varaibles and reject them/or not based on the p-value vs _alpha_ to get a better understanding to the differet variables effect on the 
-MechaCar cost.
+We can test multiple varaibles and reject them/or not based on the <b>p-value vs _&alpha;_ </b> to get a better understanding of the effect of the differet 
+variables on the MechaCar cost.
 
 
 Output 10. 
@@ -134,7 +134,9 @@ Output 10.
 
 <b>Ha=TRUE</b>, There is sufficient evidence that the cost of a MechaCar <ins><b>is not correct</b><ins>.
 
-
+ In order to test for the above hyphotesis, I would choose ,<ins>Multiple Linear Regreassion </ins>, so that I can test cost against all other/or some of the variables, 
+ to get an r^2 value, which would tell me my p-value, hence if my H0 is true or false, but also predict the probability matrix to determine the likelyhood that future
+ data points will fill the linear model.
 
 
 
