@@ -2,7 +2,7 @@
 # MechaCar_Statistical_Analysis
 ## Deliverable1
 ### Linear Regression to Predict MPG
- After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions is to be answered:
+ After performing a Linear Regression Analysis of the data columns in the MechaCar_mpg.csv, the following questions are to be answered:
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    
    Looking at the results of the linear regression model, the last column shows the p-values for the different variables.
